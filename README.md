@@ -38,19 +38,19 @@ Bootstrap (optional styling)
 Angular Router
 Angular Services & Guards
 # Installation & Setup
-1. # Clone or extract project
+ # Clone or extract project
  cd "Student Smart Portal/demo"
-2. # Install dependencies
+# Install dependencies
    npm install
-3. # Run the application
+# Run the application
 ng serve
-4. # Open in browser
+# Open in browser
 http://localhost:4200/
 # Learning Outcomes
-Angular project structure
-Component-based architecture
-Routing system
-Service injection
-Route guards
+1. Angular project structure
+2. Component-based architecture
+3. Routing system
+4. Service injection
+5. Route guards
 
  
